@@ -95,6 +95,17 @@ export const products = [
     ],
     isHot: false,
   },
+    {
+    id: 18,
+    name: 'Nakata 8 (Japan/Red)',
+    price: 349,
+    category: 'retro',
+    images: [
+      'https://i.ibb.co/TxgTKqd9/1000374094-removebg-preview-1.png',
+      'https://i.ibb.co/vC9QtnYt/1000374092-removebg-preview-1.png'
+    ],
+    isHot: false,
+  },
 
   // --- BASKETBALL / NBA (Price 249) ---
   {
